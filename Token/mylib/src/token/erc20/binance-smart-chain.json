@@ -1,0 +1,46 @@
+[
+    {
+      "type": "ERC20",
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    {
+      
+      "type": "ERC20",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "name": "Binance-Peg Ethereum Token",
+      "symbol": "ETH"
+    },
+    {
+      
+      "type": "ERC20",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "BNB"
+    },
+    {
+      
+      "type": "ERC20",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "BSC-USD"
+    },
+    {
+      "type": "ERC20",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "name": "Binance-Peg Cardano Token",
+      "symbol": "ADA"
+    },
+    {
+      "type": "ERC20",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "name": "Binance-Peg XRP Token",
+      "symbol": "XRP"
+    },
+    {
+      "type": "ERC20",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC"
+    }]

@@ -1,0 +1,10 @@
+export * from './type';
+import type {FungibleToken} from './type';
+import Polygon from './token/erc20/Polygon.json';
+import optimistic_etherium from './token/erc20/optimistic-etherium.json';
+import mainnet from './token/erc20/mainnet.json';
+import binance_smart_chain from './token/erc20/binance-smart-chain.json';
+export const val =  Polygon;
+export const val2 =  mainnet;
+export const val3 =  optimistic_etherium;
+export const val4 =  binance_smart_chain;
